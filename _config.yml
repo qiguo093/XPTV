@@ -20,13 +20,16 @@
 lang: zh-CN
 timezone: Asia/Shanghai
 title: 指南总汇
+tagline: 一个普普通通的合集，在这可以查看对应App的指南。
 description: >- # this means to ignore newlines until "baseurl:"
- 在这可以查看对应App的指南.
+ 如果感觉不适合自己可以前往Apple官方退款要趁早不然很有可能无法成功。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-
+website:
+  name: "Apple官方退款"
+  url: "https://reportaproblem.apple.com/"
 # Build settings
 theme: minima
 plugins:
